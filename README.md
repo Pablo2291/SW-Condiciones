@@ -1,1 +1,1 @@
-# SW-Condiciones
+# SW-Ejercicio 6
